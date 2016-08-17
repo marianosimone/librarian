@@ -1,0 +1,42 @@
+body {
+    margin: 5%;
+    text-align: justify;
+    font-size: medium;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+}
+
+ol.toc {
+    padding: 0;
+    margin-left: 1em;
+}
+
+ol.toc li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a.footnoteRef {
+    vertical-align: super;
+}
+
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+
+figure {
+    text-align: center;
+}
+
+a.noteref {
+    vertical-align: superscript;
+    font-size: 0.8em;
+}
+aside.note {
+    margin-top: 1em;
+}
+aside.note p {
+    text-indent: 0;
+}

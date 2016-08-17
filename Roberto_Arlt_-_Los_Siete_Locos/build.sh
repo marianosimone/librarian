@@ -1,0 +1,1 @@
+pandoc --epub-stylesheet=stylesheet.css --to epub3 src/*.md -o "Roberto Arlt - Los Siete Locos.epub"
